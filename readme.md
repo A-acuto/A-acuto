@@ -3,8 +3,8 @@
 I am a Data scientist, research associate, bug developer and professional complainer at University of Liverpool.
 
 A snapshot of what I've been up to in the last years:
-- ✈️ Development and integration of algorithms for data fusion and target tracking ([here](https://github.com/UoL-SignalProcessingGroup/StoneSoupNUTS));
-- 🤖 Decision making in network defence using RL algorithms (like [here](https://github.com/A-acuto/RLYawningTitan)) and gaussian processes (soon);  
+- ✈️ Development and integration of algorithms for data fusion and target tracking ([Tutorial](https://github.com/UoL-SignalProcessingGroup/StoneSoupNUTS), [paper](https://ieeexplore.ieee.org/document/11124070));
+- 🤖 Decision making in network defence using RL algorithms (like [codes](https://github.com/A-acuto/RLYawningTitan)) and gaussian processes with real world costs ([paper](https://ieeexplore.ieee.org/document/11130046));  
 - 🌌 Astrophysics and cosmology background (something I've done [here](https://academic.oup.com/mnras/article/508/3/3519/6381719)); 
 
 More info [here!](https://a-acuto.github.io/)
